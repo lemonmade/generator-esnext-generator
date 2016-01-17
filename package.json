@@ -24,7 +24,7 @@
     "yeoman-generator"
   ],
   "name": "generator-esnext-generator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Yeoman generator generating a Yeoman generator using what's next in JavaScript.",
   "author": {
     "name": "Chris Sauve",
